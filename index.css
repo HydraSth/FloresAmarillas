@@ -1,0 +1,17 @@
+#root{
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    align-items: center;
+    place-items: center;
+    height: 100vh;
+}
+
+img{
+    width: 50%;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #bc8018;
+}
